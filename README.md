@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on mostly anything but something based on coding that will help me get some real world experience
 - 📫 How to reach me parbhakharneupane@gmail.com,
-- 😄 Pronouns: Whaterver you like
 - ⚡ Fun fact: I'm too young while currently making a github account
 
 <!---
