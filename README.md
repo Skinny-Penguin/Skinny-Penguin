@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, webdevelopment, learning new things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on mostly anything but something based on coding that will help me get some real world experience
-- 📫 How to reach me parbhakharneupane@gmail.com,
 - ⚡ Fun fact: I'm too young while currently making a github account
 
 <!---
