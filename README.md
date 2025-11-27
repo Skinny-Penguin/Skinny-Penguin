@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, webdevelopment, learning new things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on mostly anything but something based on coding that will help me get some real world experience
-- ⚡ Fun fact: I'm too young while currently making a github account
+
 
 <!---
 Skinny-Penguin/Skinny-Penguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
