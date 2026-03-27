@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Skinny-Penguin
-- 👀 I’m interested in coding, webdevelopment, learning new things
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on mostly anything but something based on coding that will help me get some real world experience
+<h1> Hi, Everyone!</h1>
+<h2>This is me Skinny-Penguin. </h2>
+<img src= "https://cdn.britannica.com/77/81277-050-2A6A35B2/Adelie-penguin.jpg" alt="Image of a Penguin" style="width: 15em; height: auto; border-radius: 2em; object-fit: cover; ">
 
 
 <!---
