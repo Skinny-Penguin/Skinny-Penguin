@@ -1,6 +1,8 @@
 <h1> Hi, Everyone!</h1>
-<h2>This is me Skinny-Penguin. </h2>
-<img src= "https://cdn.britannica.com/77/81277-050-2A6A35B2/Adelie-penguin.jpg" alt="Image of a Penguin" style="width: 15em; height: auto; border-radius: 2em; object-fit: cover; ">
+<h2>At 13, I was just a geek teenager obsessed with video games, until I wrote my first script and realized I could actually build things, not just play them. Then one day, my account got hacked and everything disappeared. I couldn't sleep that night, scrolling tech forums trying to understand what happened.
+<br>
+That night taught me something I haven't forgotten: technology is only as powerful as the difference it makes in someone's day to day life, and in the wrong hands, that difference can hurt. </h2>
+
 
 
 <!---
